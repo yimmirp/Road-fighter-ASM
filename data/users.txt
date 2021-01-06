@@ -1,0 +1,6 @@
+yimmi,1234;
+daniel,3242;
+josue,5432;
+karina,2323;
+susel,1234;
+daniel,ssss;
